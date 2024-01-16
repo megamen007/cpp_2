@@ -6,7 +6,7 @@
 #    By: mboudrio <mboudrio@student.1337.ma>        +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2023/12/24 23:19:31 by mboudrio          #+#    #+#              #
-#    Updated: 2023/12/24 23:19:34 by mboudrio         ###   ########.fr        #
+#    Updated: 2023/12/26 21:48:44 by mboudrio         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -22,7 +22,7 @@ SRC = main.cpp Fixed.cpp
 OBJ = $(SRC:.cpp=.o)
 
 # Define the name of the executable to be generated
-NAME = cpp_2_ex00
+NAME = cpp_2_ex01
 
 # Define the default target to be built
 all: $(NAME)
